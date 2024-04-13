@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Compiled output
+/dist/
+/out/
+/build/
+
+# Dependency directories
+/.pnp/
+.pnp.js
+
+# TypeScript cache
+*.tsbuildinfo
+
+# IntelliJ IDEA files
+.idea/
+
+# Visual Studio Code files
+.vscode/
+
+# Mac files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
